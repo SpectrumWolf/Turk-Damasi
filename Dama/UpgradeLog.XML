@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TurkDamasi">
+</Property><Property Name="Solution File" Value="E:\Çalışmalarım\C#.NET\TurkDamasi\TurkDamasi.sln">
+</Property><Property Name="User Options File" Value="E:\Çalışmalarım\C#.NET\TurkDamasi\TurkDamasi.suo">
+</Property><Property Name="Date" Value="06 Haziran 2007 Çarşamba">
+</Property><Property Name="Time" Value="22:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TurkDamasi.sln" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\TurkDamasi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TurkDamasi.suo" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\TurkDamasi.suo">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Project file successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\TurkDamasi.csproj">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj.user" Description="Project user file successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\TurkDamasi.csproj.user">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="frmOyun.cs" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\frmOyun.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Enumlar.cs" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\Siniflar\Enumlar.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Tahta.cs" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\Siniflar\Tahta.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Tas.cs" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\Siniflar\Tas.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="App.ico" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="frmOyun.resx" Description="File successfully backed up as E:\Çalışmalarım\C#.NET\TurkDamasi\Backup\frmOyun.resx">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TurkDamasi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TurkDamasi.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

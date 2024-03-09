@@ -1,0 +1,2 @@
+obj\Debug\TurkDamasi.exe
+obj\Debug\TurkDamasi.pdb

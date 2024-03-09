@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\bin\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\bin\Debug\TurkDamasi.pdb
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.Form1.resources
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.Properties.Resources.resources
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.pdb
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.Giris.resources
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.Profil.resources
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.Kayit.resources
+C:\Users\USER\Desktop\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.admin.resources
+C:\Users\USER\Desktop\aaa\benimProje\benimProje\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\aaa\benimProje\benimProje\DamaOdevi\TurkDamasi\obj\x86\Debug\TurkDamasi.pdb

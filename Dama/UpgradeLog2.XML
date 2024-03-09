@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TurkDamasi">
+</Property><Property Name="Solution File" Value="C:\Users\USER\Desktop\aaa\Dama\Dama\TurkDamasi.sln">
+</Property><Property Name="User Options File" Value="C:\Users\USER\Desktop\aaa\Dama\Dama\TurkDamasi.suo">
+</Property><Property Name="Date" Value="18 Haziran 2015 Perşembe">
+</Property><Property Name="Time" Value="17:20">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TurkDamasi.sln" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\TurkDamasi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TurkDamasi.suo" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\TurkDamasi.suo">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Project file successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\TurkDamasi.csproj">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj.user" Description="Project user file successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\TurkDamasi.csproj.user">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="frmOyun.cs" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\frmOyun.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Enumlar.cs" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\Siniflar\Enumlar.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Tahta.cs" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\Siniflar\Tahta.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="Siniflar\Tas.cs" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\Siniflar\Tas.cs">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="App.ico" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="frmOyun.resx" Description="File successfully backed up as C:\Users\USER\Desktop\aaa\Dama\Dama\Backup\frmOyun.resx">
+</Event><Event ErrorLevel="1" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TurkDamasi.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="TurkDamasi.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TurkDamasi" Source="TurkDamasi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

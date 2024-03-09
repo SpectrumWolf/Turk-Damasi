@@ -1,0 +1,25 @@
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.pdb
+C:\Users\USER\Desktop\aaa\Dama\Dama\bin\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\aaa\Dama\Dama\bin\Debug\TurkDamasi.pdb
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.frmOyun.resources
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.admin.resources
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.Giris.resources
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.Kayit.resources
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.Profil.resources
+C:\Users\USER\Desktop\aaa\Dama\Dama\bin\Debug\TurkDamasi.exe.config
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\aaa\Dama\Dama\obj\Debug\TurkDamasi.Properties.Resources.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\bin\Debug\TurkDamasi.exe.config
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.pdb
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\bin\Debug\TurkDamasi.exe
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.admin.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.frmOyun.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.Giris.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.Kayit.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.Profil.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.Properties.Resources.resources
+C:\Users\USER\Desktop\Yeni klasör\Dama\Dama\obj\Debug\TurkDamasi.csproj.GenerateResource.Cache
